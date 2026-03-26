@@ -1,7 +1,7 @@
 # .github
 
 
-This is a shared, private repository for sharing
+This is an org shared, private repository
 
 - ISSUE_TEMPLATES
 - etc.
