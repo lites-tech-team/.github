@@ -1,6 +1,6 @@
 ---
 name: Task
-about: Create a task for the EDRMS Next.Js App
+about: Create a task for completion of a task
 title: "[Task]: "
 labels: enhancement
 assignees: ''
