@@ -8,4 +8,4 @@ This is a shared, public repository for sharing
 
 
 
-No public info should go here.
+No private of confidential info should go on here.
