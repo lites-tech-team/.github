@@ -8,4 +8,5 @@ This is an org shared, private repository
 
 
 
-No private of confidential info should go on here.
+For any security vulnerabilities found; please contact:
+mailto: info@lites.co.ke
